@@ -13,6 +13,8 @@ $(call inherit-product, device/xiaomi/venus/device.mk)
 
 # Inherit some common Superior OS stuff.
 $(call inherit-product, vendor/superior/config/common.mk)
+SUPERIOR_OFFICIAL := true
+TARGET_SUPPORTS_QUICK_TAP := true
 
 #Gapps
 TARGET_GAPPS_ARCH := arm64
