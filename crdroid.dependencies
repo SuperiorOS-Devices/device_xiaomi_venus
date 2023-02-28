@@ -21,7 +21,7 @@
     "remote": "crdroid-gitlab"
   },
   {
-    "repository": "crdroidandroid/kernel_xiaomi_venus",
+    "repository": "crdroidandroid/android_kernel_xiaomi_venus",
     "target_path": "kernel/xiaomi/venus"
   }
 ]
