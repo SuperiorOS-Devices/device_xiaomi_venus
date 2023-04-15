@@ -1,0 +1,44 @@
+[
+  {
+    "repository" : "vendor_xiaomi_venus",
+    "target_path": "vendor/xiaomi/venus",
+    "branch": "thirteen",
+    "remote": "SuperiorOS-Devices"
+  },
+  {
+      "repository" : "vendor_xiaomi_venus-common",
+      "target_path": "vendor/xiaomi/sm8350-common",
+      "branch": "thirteen",
+      "remote": "SuperiorOS-Devices"
+  },
+  {
+      "repository" : "device_xiaomi_venus-common",
+      "target_path": "device/xiaomi/sm8350-common",
+      "branch": "thirteen",
+      "remote": "SuperiorOS-Devices"
+  },
+  {
+      "repository" : "kernel_xiaomi_venus",
+      "target_path": "kernel/xiaomi/venus",
+      "branch": "thirteen",
+      "remote": "SuperiorOS-Devices"
+  },
+  {
+    "repository": "miwu04/vendor_xiaomi_venus-firmware",
+    "target_path": "vendor/xiaomi/venus-firmware",
+    "branch":"thirteen",
+    "remote":"gitlab"
+  },
+  {
+      "repository": "miwu04/vendor_xiaomi_venus-miuicamera",
+      "target_path": "vendor/xiaomi/venus-miuicamera",
+      "branch":"thirteen",
+      "remote":"gitlab"
+  },
+  {
+    "repository": "Joker-V2/prebuilts_clang_host_linux-x86_clang-r487747",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-r487747",
+    "branch":"master",
+    "remote":"gitlab"
+  }
+]
